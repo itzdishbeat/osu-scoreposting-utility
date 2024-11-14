@@ -15,6 +15,7 @@ osu! Scoreposting utility is a handy tool that allows you to quickly and easily 
 
 - **Customizable Post Title**: Add your own message to the title of your post.
 - **Username**: Simply enter the username to retrieve their most recent score in the default mode.
+- **Buy a hosting**
 
 ## How to Use
 
@@ -30,6 +31,13 @@ To install osu! Scoreposting utility, you will need Node.js. Follow these steps:
    ```bash
    git clone https://github.com/itzdishbeat/osu-scoreposting-utility.git
    cd osu-scoreposting-utility
+   ```
+2. Install libaries:
+   ```bash
+   npm i react
+   npm install -D tailwindcss
+   npm install @nextui-org/react framer-motion
+   npm install react-icons --save
    ```
 
 2. Run local server:
