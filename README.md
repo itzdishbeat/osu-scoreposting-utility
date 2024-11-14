@@ -9,7 +9,7 @@ osu! Scoreposting utility is a handy tool that allows you to quickly and easily 
 ## Key Features
 
 - **Download your results**: Automatically download or copy a screenshot of your result.
-- **Convenient Buttons**: Easily open the submission page on r/osugame with a ready-made title, and copy the title to your clipboard.
+- **Customizable**: Change the content of your score to suit your taste
 
 ## TODO
 
